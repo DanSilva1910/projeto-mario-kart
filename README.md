@@ -91,7 +91,7 @@
     <ul>
       <li><input type="checkbox" id="pistas-2-1-item" /> <label for="pistas-2-1-item">Caso o bloco da pista seja uma RETA, o jogador deve jogar um dado de 6 lados e somar o atributo VELOCIDADE, quem vencer ganha um ponto</label></li>
       <li><input type="checkbox" id="pistas-2-2-item" /> <label for="pistas-2-2-item">Caso o bloco da pista seja uma CURVA, o jogador deve jogar um dado de 6 lados e somar o atributo MANOBRABILIDADE, quem vencer ganha um ponto</label></li>
-      <li><input type="checkbox" id="pistas-2-3-item" /> <label for="pistas-2-3-item">Caso o bloco da pista seja um CONFRONTO, o jogador deve jogar um dado de 6 lados e somar o atributo PODER, quem perder, perde um ponto</label></li>
+      <li><input type="checkbox" id="pistas-2-3-item" /> <label for="pistas-2-3-item">Caso o bloco da pista seja uma  CONFRONTO, cada jogador deve lançar um dado de 6 lados e somar o resultado ao seu atributo PODER. O jogador com o menor total perde o confronto. Em seguida, sorteie aleatoriamente se o efeito será um Casco, fazendo o perdedor perder 1 ponto, ou uma Bomba, fazendo o perdedor perder 2 pontos. O vencedor do confronto pode ganhar um turbo, adicionando 1 ponto ao seu total de pontos de maneira aleatoria</label></li>
       <li><input type="checkbox" id="pistas-2-3-item" /> <label for="pistas-2-3-item">Nenhum jogador pode ter pontuação negativa (valores abaixo de 0)</label></li>
     </ul>
   </li>
