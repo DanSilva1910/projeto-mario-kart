@@ -1,0 +1,28 @@
+{
+  "name": "projeto-mario-kart",
+  "version": "1.0.0",
+  "description": "Projeto de um jogo de corrida  simulando corridas no Mario Kart em node.js",
+  "main": "Racers.js",
+  "directories": {
+    "doc": "docs"
+  },
+  
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanSilva1910/projeto-mario-kart.git"
+  },
+  "keywords": [
+    "projeto",
+    "node.js"
+  ],
+  "author": "Danilo Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanSilva1910/projeto-mario-kart/issues"
+  },
+  "homepage": "https://github.com/DanSilva1910/projeto-mario-kart#readme"
+}
