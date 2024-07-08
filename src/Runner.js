@@ -8,12 +8,4 @@ module.exports = class Runner {
         this.PONTOS = pontos;
     }
 
-    // Método para exibir informações do corredor
-    displayInfo() {
-        console.log(`Nome: ${this.NOME},
-                    Velocidade: ${this.VELOCIDADE}, 
-                    Manobrabilidade: ${this.MANOBRABILIDADE},
-                    Poder: ${this.PODER},
-                    Pontos: ${this.PONTOS}`);
-    }
 };
